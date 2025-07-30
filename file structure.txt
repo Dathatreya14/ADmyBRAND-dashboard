@@ -1,0 +1,34 @@
+admybrand-dashboard/
+├── app/
+│   ├── page.tsx                   # Main dashboard page
+│   ├── layout.tsx                 # Global layout
+├── components/
+│   ├── CardMetric.tsx             # Metric Cards (Revenue, Users, etc.)
+│   ├── ChartLine.tsx              # Line Chart
+│   ├── ChartBar.tsx               # Bar Chart
+│   ├── ChartPie.tsx               # Donut/Pie Chart
+│   ├── DataTable.tsx              # Table with sorting/filtering/pagination
+│   ├── Navbar.tsx                 # Top navigation bar
+│   ├── Sidebar.tsx                # (Optional) Sidebar layout
+│   ├── Toggle.tsx                 # Light/Dark mode switch
+├── sections/
+│   ├── Overview.tsx               # Wraps metric cards
+│   ├── Charts.tsx                 # All 3 charts together
+│   ├── TableSection.tsx           # Wrapper for the table
+├── data/
+│   ├── metrics.ts                 # Data for metric cards
+│   ├── chart-line.ts              # Line chart sample data
+│   ├── chart-bar.ts               # Bar chart sample data
+│   ├── chart-pie.ts               # Pie chart sample data
+│   ├── table.ts                   # Data table entries
+├── styles/
+│   ├── globals.css                # Tailwind and base styles
+├── public/
+│   ├── images/                    # Logos/icons (optional)
+├── README.md                      # Project overview & usage
+├── AI-usage-report.md             # How AI tools were used
+├── .gitignore
+├── package.json
+├── tailwind.config.ts
+├── tsconfig.json
+`

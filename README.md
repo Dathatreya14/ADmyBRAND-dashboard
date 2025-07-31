@@ -14,11 +14,11 @@ This is a **responsive sample dashboard** built using **Next.js 14**, **Tailwind
 
 ## 📦 Features
 
-- 📊 **Metric Cards** — Displays key KPIs like Revenue, Users, Conversions, Growth %
-- 📈 **Interactive Charts** — Line, Bar, and Pie charts with real-time responsiveness
-- 🧾 **Advanced Data Table** — With sorting, filtering, and pagination
-- 🌗 **Dark/Light Mode Toggle** — Theme switch for better UX
-- 💻 **Fully Responsive** — Works perfectly across desktop, tablet, and mobile
+- **Metric Cards** — Displays key KPIs like Revenue, Users, Conversions, Growth %
+- **Interactive Charts** — Line, Bar, and Pie charts with real-time responsiveness
+- **Advanced Data Table** — With sorting, filtering, and pagination
+- **Dark/Light Mode Toggle** — Theme switch for better UX
+- **Fully Responsive** — Works perfectly across desktop, tablet, and mobile
 
 ---
 
